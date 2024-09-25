@@ -1,3 +1,20 @@
+# A Hola, mi nombre es Rafael, también conocido como Pipkon 👋
+
+## A Desarrollador de aplicaciones Web
+
+Aprendiz Autodidacta de programaición
+
+### A Tecnologías:
+
+HTML CSS Javascript Java MySQL PHP Ajax
+
+Y alguna más...
+
+Encuéntrame en:
+
+https://github.com/Pipkon
+https://github.com/Pipkonx
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
