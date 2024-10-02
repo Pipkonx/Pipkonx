@@ -13,22 +13,26 @@ Y alguna más...
 Encuéntrame en:
 
 Cuenta principal : https://github.com/Pipkon
+
 Cuenta de estudios : https://github.com/Pipkonx
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Información útil que los usuarios deberían saber, incluso si están en modo “scroll infinito” mientras buscan el último meme.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Consejo útil para hacer las cosas mejor o más fácil, como recordar que Ctrl + Z es tu mejor amigo cuando la vida se vuelve un caos.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Información clave que los usuarios necesitan saber para lograr su objetivo, como que no se debe reiniciar el router mientras está en una videollamada… ¡y menos si te están entrevistando!
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Info urgente que requiere la atención inmediata del usuario, como cuando tu antivirus grita más que tu madre cuando le dices que no has comido.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Advertencias sobre riesgos o resultados negativos, como intentar arreglar el ordenador con un martillo… a menos que quieras convertirlo en una obra de arte moderna.
+
+
+
 
 
 <!---
