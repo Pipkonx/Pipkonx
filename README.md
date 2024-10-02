@@ -12,8 +12,8 @@ Y alguna más...
 
 Encuéntrame en:
 
-https://github.com/Pipkon
-https://github.com/Pipkonx
+Cuenta principal : https://github.com/Pipkon
+Cuenta de estudios : https://github.com/Pipkonx
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
