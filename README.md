@@ -11,7 +11,7 @@
 
 - 📫 Cómo Contactarme **rcoracu924@g.educaand.es**
 
-<h3 align="left">Cotáctame:</h3>
+<h3 align="left">Conectemos:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rafael-cordero-de-acu%C3%B1a-b69b85292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-cordero-de-acu%c3%b1a-b69b85292/" height="30" width="40" /></a>
 </p>
