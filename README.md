@@ -5,7 +5,7 @@
 Soy Rafa, técnico informático en proceso de convertirme en desarrollador web. Me apasiona la eficiencia, el aprendizaje continuo y escribir código limpio y escalable.
 
 - 🌍  Estoy basado en Huelva, España
-- 🖥️  Ver mi portafolio en [Miportafolio](http://https://rafaelcorderodev.lovestoblog.com/?i=1)
+- 🖥️  Ver mi portafolio en [Miportafolio](https://rafaelcorderodev.lovestoblog.com/?i=1)
 - ✉️  Puedes contactarme en [corderorafa0@gmail.com](mailto:corderorafa0@gmail.com)
 - 🧠  Estoy aprendiendo Java POO & SQL en profundidad, refactorización de código, mejorando mis habilidades en JavaScript, HTML, CSS y PHP
 - 🤝  Estoy abierto a colaborar en Proyectos web interesantes, Aplicaciones que aporten valor real, Ideas de automatización y eficiencia
