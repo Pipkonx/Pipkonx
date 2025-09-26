@@ -36,19 +36,6 @@ Técnico informático en proceso de convertirme en desarrollador web. Me encanta
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipkonx&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Lenguajes más usados" />
 </div>
-
-## 📂 Proyectos Destacados
-
-<div align="center">
-
-| Proyecto | Descripción | Tecnologías | Enlace |
-|----------|-------------|-------------|--------|
-| [Proyecto 1](https://github.com/Pipkonx/proyecto1) | Descripción breve del proyecto | Vue, Node.js | [Ver Demo](https://github.com/Pipkonx) |
-| [Proyecto 2](https://github.com/Pipkonx/proyecto2) | Descripción breve del proyecto | PHP, MySQL | [Ver Demo](https://github.com/Pipkonx) |
-| [Proyecto 3](https://github.com/Pipkonx/proyecto3) | Descripción breve del proyecto | JavaScript, HTML, CSS | [Ver Demo](https://github.com/Pipkonx) |
-
-</div>
-
 ---
 
 <div align="center">
