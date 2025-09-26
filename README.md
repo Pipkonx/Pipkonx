@@ -37,7 +37,6 @@ Técnico informático en proceso de convertirme en desarrollador web. Me encanta
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipkonx&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Lenguajes más usados" />
 </div>
 ---
-
 <div align="center">
   <a href="https://github.com/Pipkonx">
     <img src="https://komarev.com/ghpvc/?username=Pipkonx&color=0891b2&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil" />
