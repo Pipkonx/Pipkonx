@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0891B2&center=true&vCenter=true&width=520&lines=Construyo+software+que+resuelve+problemas+reales.;Laravel+%C2%B7+Vue+3+%C2%B7+Docker+%C2%B7+Clean+Architecture;SOLID+%C2%B7+DRY+%C2%B7+Siempre+aprendiendo." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0891B2&center=true&vCenter=true&width=520&lines=Construyo+software+que+resuelve+problemas+reales;Laravel+%C2%B7+Vue+3+%C2%B7+Docker+%C2%B7+Clean+Architecture;SOLID+%C2%B7+DRY+%C2%B7+Siempre+aprendiendo." alt="Typing SVG" />
 
 <br/><br/>
 
