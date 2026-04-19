@@ -1,43 +1,129 @@
-# Rafael Cordero | Pipkonx
-
-[![GitHub followers](https://img.shields.io/github/followers/Pipkonx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Pipkonx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Cordero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-c-b69b85292/)
-
-## 👨‍💻 Desarrollador Web
-
-Técnico informático en proceso de convertirme en desarrollador web. Me encanta la eficiencia y el aprendizaje continuo.
-
-- 🌍 Huelva, España
-- 🖥️ [Portfolio](https://rafaelcorderodev.lovestoblog.com/?i=1)
-- ✉️ [corderorafa0@gmail.com](mailto:corderorafa0@gmail.com)
-- 🧠 Actualmente aprendiendo VueJS
-- ⚡ Traro siempre buscando la forma más eficiente de resolver problemas
-
-## 🛠️ Tecnologías
-
 <div align="center">
 
-| Lenguajes | Frontend | Backend | Herramientas |
-|-----------|----------|---------|--------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=Rafael%20Cordero&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Huelva%2C%20Espa%C3%B1a&descSize=16&descAlignY=85&descColor=ffffff" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0891B2&center=true&vCenter=true&width=520&lines=Construyo+software+que+resuelve+problemas+reales.;Laravel+%C2%B7+Vue+3+%C2%B7+Docker+%C2%B7+Clean+Architecture;SOLID+%C2%B7+DRY+%C2%B7+Siempre+aprendiendo." alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Cordero-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-c-b69b85292/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafaelcorderodev-111827?style=flat-square&logo=vercel&logoColor=white)](https://rafaelcorderodev.lovestoblog.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-corderorafa0@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:corderorafa0@gmail.com)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Pipkonx?style=flat-square&logo=github&label=Seguidores&color=111827)](https://github.com/Pipkonx)
+&nbsp;
+![Visitas](https://komarev.com/ghpvc/?username=Pipkonx&color=0891b2&style=flat-square&label=visitas)
 
 </div>
 
-## 📊 GitHub Stats
+---
+
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Pipkonx&show_icons=true&count_private=true&title_color=0891b2&text_color=6b7280&icon_color=0891b2&bg_color=f9fafb&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true" />
+
+### Sobre mí
+
+- 📍 Huelva, España
+- 🎓 Técnico Superior en **DAW**
+- 🔭 Construyendo **FintechPro** — SaaS de gestión patrimonial
+- 🌱 Profundizando en **Vue 3**, composables y arquitectura de software
+- 🧠 Principios: **SOLID · DRY · Clean Architecture**
+- 💬 Pregúntame sobre **Laravel**, scraping o APIs
+- ⚡ Busco siempre la solución más eficiente, no la más rápida
+
+<br/>
+
+### En este momento
+
+```text
+🔨  Desarrollando   FintechPro v4.0 — Feature-based architecture
+📖  Aprendiendo     Vue 3 Composables · Design Patterns
+📌  Explorando      Open Banking (PSD2) · Capacitor Mobile
+```
+
+<br clear="right"/>
+
+---
+
+### Stack tecnológico
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipkonx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estadísticas de GitHub de Pipkonx" />
+
+**Lenguajes**
+
+[![Skills](https://skillicons.dev/icons?i=php,js,python,java,bash&theme=light)](https://skillicons.dev)
+
+**Frontend & Frameworks**
+
+[![Skills](https://skillicons.dev/icons?i=laravel,vue,inertia,html,css,bootstrap,vite&theme=light)](https://skillicons.dev)
+
+**Backend, Base de Datos & DevOps**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,mysql,sqlite,docker,nginx,linux,git&theme=light)](https://skillicons.dev)
+
+**Diseño & Herramientas**
+
+[![Skills](https://skillicons.dev/icons?i=figma,vscode,github,postman,ps&theme=light)](https://skillicons.dev)
+
+</div>
+
+---
+
+### Trofeos
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pipkonx&theme=flat&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### Proyecto destacado
+
+<div align="center">
+
+[![FintechPro](https://github-readme-stats.vercel.app/api/pin/?username=Pipkonx&repo=DAW&title_color=0891b2&text_color=6b7280&icon_color=0891b2&bg_color=f9fafb&hide_border=true&border_radius=12)](https://github.com/Pipkonx/DAW)
+
+</div>
+
+> **FintechPro** — Plataforma SaaS completa para la gestión de carteras de inversión. Consolida acciones, ETFs, criptomonedas y fondos en un único dashboard con OCR automático de extractos bancarios, scraping resiliente de precios con fallbacks en cascada, 2FA TOTP (RFC 6238) y auditoría de sesiones.
+>
+> `Laravel 12` &nbsp;·&nbsp; `Vue 3` &nbsp;·&nbsp; `Inertia.js` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Chart.js` &nbsp;·&nbsp; `MySQL`
+
+---
+
+### Actividad
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pipkonx&theme=default&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&locale=es&card_width=520)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipkonx&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Lenguajes más usados" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pipkonx&langs_count=8&title_color=0891b2&text_color=6b7280&bg_color=f9fafb&hide_border=true&border_radius=12&layout=compact&card_width=520)
+
 </div>
+
+<br/>
+
 <div align="center">
-  <a href="https://github.com/Pipkonx">
-    <img src="https://komarev.com/ghpvc/?username=Pipkonx&color=0891b2&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil" />
-  </a>
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pipkonx&bg_color=f9fafb&color=0891b2&line=0891b2&point=0891b2&area=true&area_color=e0f2fe&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=80&section=footer" />
+
+*"La diferencia entre el caos y la claridad es un sistema bien diseñado."*
+
 </div>
